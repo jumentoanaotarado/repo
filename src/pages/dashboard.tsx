@@ -141,9 +141,14 @@ export default function Dashboard() {
 
                         <Image src="https://palmafc.com/wp-content/uploads/2015/05/Financial-investigations-AS.jpg"
                             alt='Dan Abramov'
-                            width={300} height={285}
+                            width={340} height={285}
                         />
                     </Box>
+
+
+
+
+
                 </SimpleGrid>
             </Flex>
         </Flex>

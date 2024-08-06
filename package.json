@@ -21,7 +21,7 @@
     "framer-motion": "^11.2.10",
     "jsx-runtime": "^1.2.0",
     "next-images": "^1.8.5",
-    "node-fetch": "^3.3.2",
+    "node-fetch": "^2.6.1",
     "react": "^18.3.1",
     "react-apexcharts": "^1.4.1",
     "react-dom": "^18.3.1",

@@ -10,7 +10,7 @@ import {
     ModalOverlay,
     useDisclosure,
   } from '@chakra-ui/react'
-  import { ReactNode, useCallback } from "react";
+ 
   
   interface ModalProps {
     onOk: () => void;

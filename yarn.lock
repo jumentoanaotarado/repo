@@ -1652,6 +1652,7 @@ csstype@^3.0.2, csstype@^3.1.2:
     eslint "^9.8.0"
     formik "^2.4.6"
     framer-motion "^11.2.10"
+    jsx-runtime "^1.2.0"
     next-images "^1.8.5"
     node-fetch "^3.3.2"
     react "^18.3.1"
@@ -2530,7 +2531,7 @@ react-clientside-effect@^1.2.6:
   dependencies:
     "@babel/runtime" "^7.12.13"
 
-react-dom@^18.0.0, react-dom@>=0.14.0, react-dom@>=18, react-dom@>=18.0.0:
+react-dom@^18.0.0, react-dom@^18.3.1, react-dom@>=0.14.0, react-dom@>=18, react-dom@>=18.0.0:
   version "18.3.1"
   resolved "https://registry.npmjs.org/react-dom/-/react-dom-18.3.1.tgz"
   integrity sha512-5m4nQKp+rZRb09LNH59GM4BxTh9251/ylbKIbpe7TpGxfJ+9kv6BLkLBXIjjspbgbnIBNqlI23tRnTWT0snUIw==
